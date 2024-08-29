@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+.idea/
+.vscode/
+.DS_Store
+
+# Flask specific
+instance/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
